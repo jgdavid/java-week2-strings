@@ -15,7 +15,6 @@ public class string_exercises {
 		String myString3 = "how are you ";
 		for (int i = 0; i < myString3.length(); i++)
 			;
-		System.out.println(i);
 
 		String subSt = myString3.substring(0, 4);
 		String subSt2 = myString3.substring(4, 8);
